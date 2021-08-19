@@ -1,0 +1,54 @@
+INFO:root:
+ -> Recursion allowed in this program: 1000
+INFO:root:
+ first list is logged here:
+INFO:root:
+ a_new = [1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24]
+INFO:root:
+ -> Recursion allowed in this program: 1000
+INFO:root:
+ first list is logged here:
+INFO:root:
+ a_new = [1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24]
+INFO:root:
+ -> Recursion allowed in this program: 1000
+INFO:root:
+ first list is logged here:
+INFO:root:
+ a_new = [1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24]
+INFO:root:
+ -> Recursion allowed in this program: 1000
+INFO:root:
+ first list is logged here:
+INFO:root:
+ a_new = [1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24, 1, 24]
+INFO:root:
+ -> Recursion allowed in this program: 1000
+INFO:root:
+ first list is logged here:
+INFO:root:
+ a_new = [22, 22, 22, 23, 22, 23, 23, 22, 23, 23, 23, 22, 22, 23, 22, 23, 22, 22, 23, 22, 23, 23, 23, 23]
+INFO:root:
+ -> Recursion allowed in this program: 1000
+INFO:root:
+ first list is logged here:
+INFO:root:
+ a_new = [21, 22, 23, 23, 22, 22, 23, 21, 23, 22, 23, 21, 21, 22, 22, 21, 22, 22, 21, 21, 21, 22, 22, 22]
+INFO:root:
+ -> Recursion allowed in this program: 1000
+INFO:root:
+ first list is logged here:
+INFO:root:
+ a_new = [23, 22, 23, 21, 22, 23, 21, 23, 23, 23, 23, 22, 22, 21, 20, 21, 23, 21, 23, 22, 20, 21, 23, 22]
+INFO:root:
+ -> Recursion allowed in this program: 1000
+INFO:root:
+ first list is logged here:
+INFO:root:
+ a_new = [22, 23, 22, 22, 23, 20, 21, 20, 21, 22, 20, 23, 21, 22, 22, 23, 22, 20, 22, 21, 21, 22, 23, 21]
+INFO:root:
+ -> Recursion allowed in this program: 1000
+INFO:root:
+ first list is logged here:
+INFO:root:
+ a_new = [22, 23, 21, 20, 22, 21, 20, 21, 21, 21, 20, 21, 23, 23, 22, 21, 20, 23, 22, 22, 22, 23, 21, 22]

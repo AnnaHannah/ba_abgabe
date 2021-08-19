@@ -1,0 +1,2558 @@
+ERROR:root:twoDirectSearch_Node NONE with (None, 24 ) parent: None
+INFO:root:twoDirectSearch_Node START with (24, 23 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 23 )call downSearchTree_Node
+ERROR:root:downSearchTree_Node NONE with (None, 23 ) parent: None
+INFO:root:twoDirectSearch_Node START with (24, 22 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 22 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (23, 22-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (23, 22 )
+ERROR:root:downSearchTree_Node NONE with (None, 22 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 21 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 21 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (23, 21-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (23, 21 )
+INFO:root:downSearchTree_Node START (22, 21-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 21 )
+ERROR:root:downSearchTree_Node NONE with (None, 21 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 20 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 20 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 20-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 20 )
+INFO:root:downSearchTree_Node START (21, 20-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (21, 20 )
+ERROR:root:downSearchTree_Node NONE with (None, 20 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 19 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 19 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 19 )
+INFO:root:downSearchTree_Node START (21, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (21, 19 )
+INFO:root:downSearchTree_Node START (20, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 19 )
+ERROR:root:downSearchTree_Node NONE with (None, 19 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 18 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 18 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 18 )
+INFO:root:downSearchTree_Node START (20, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 18 )
+INFO:root:downSearchTree_Node START (19, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (19, 18 )
+ERROR:root:downSearchTree_Node NONE with (None, 18 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 17 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 17 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 17 )
+INFO:root:downSearchTree_Node START (19, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (19, 17 )
+INFO:root:downSearchTree_Node START (18, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 17 )
+ERROR:root:downSearchTree_Node NONE with (None, 17 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 16 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 16 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 16 )
+INFO:root:downSearchTree_Node START (18, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 16 )
+INFO:root:downSearchTree_Node START (17, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (17, 16 )
+ERROR:root:downSearchTree_Node NONE with (None, 16 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 15 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 15 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 15 )
+INFO:root:downSearchTree_Node START (18, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 15 )
+INFO:root:downSearchTree_Node START (17, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (17, 15 )
+INFO:root:downSearchTree_Node START (16, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 15 )
+ERROR:root:downSearchTree_Node NONE with (None, 15 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 14 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 14 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 14 )
+INFO:root:downSearchTree_Node START (18, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 14 )
+INFO:root:downSearchTree_Node START (16, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 14 )
+INFO:root:downSearchTree_Node START (15, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (15, 14 )
+ERROR:root:downSearchTree_Node NONE with (None, 14 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 13 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 13 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 13 )
+INFO:root:downSearchTree_Node START (16, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 13 )
+INFO:root:downSearchTree_Node START (15, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (15, 13 )
+INFO:root:downSearchTree_Node START (14, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 13 )
+ERROR:root:downSearchTree_Node NONE with (None, 13 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 12 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 12 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 12 )
+INFO:root:downSearchTree_Node START (16, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 12 )
+INFO:root:downSearchTree_Node START (14, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 12 )
+INFO:root:downSearchTree_Node START (13, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (13, 12 )
+ERROR:root:downSearchTree_Node NONE with (None, 12 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 11 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 11 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 11 )
+INFO:root:downSearchTree_Node START (16, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 11 )
+INFO:root:downSearchTree_Node START (14, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 11 )
+INFO:root:downSearchTree_Node START (13, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (13, 11 )
+INFO:root:downSearchTree_Node START (12, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 11 )
+ERROR:root:downSearchTree_Node NONE with (None, 11 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 10 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 10 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 10 )
+INFO:root:downSearchTree_Node START (16, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 10 )
+INFO:root:downSearchTree_Node START (14, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 10 )
+INFO:root:downSearchTree_Node START (12, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 10 )
+INFO:root:downSearchTree_Node START (11, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (11, 10 )
+ERROR:root:downSearchTree_Node NONE with (None, 10 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 9 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 9 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 9 )
+INFO:root:downSearchTree_Node START (14, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 9 )
+INFO:root:downSearchTree_Node START (12, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 9 )
+INFO:root:downSearchTree_Node START (11, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (11, 9 )
+INFO:root:downSearchTree_Node START (10, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 9 )
+ERROR:root:downSearchTree_Node NONE with (None, 9 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 8 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 8 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 8 )
+INFO:root:downSearchTree_Node START (14, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 8 )
+INFO:root:downSearchTree_Node START (12, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 8 )
+INFO:root:downSearchTree_Node START (10, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 8 )
+INFO:root:downSearchTree_Node START (9, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (9, 8 )
+ERROR:root:downSearchTree_Node NONE with (None, 8 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 7 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 7 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 7 )
+INFO:root:downSearchTree_Node START (12, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 7 )
+INFO:root:downSearchTree_Node START (10, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 7 )
+INFO:root:downSearchTree_Node START (9, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (9, 7 )
+INFO:root:downSearchTree_Node START (8, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 7 )
+ERROR:root:downSearchTree_Node NONE with (None, 7 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 6 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 6 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 6 )
+INFO:root:downSearchTree_Node START (12, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 6 )
+INFO:root:downSearchTree_Node START (10, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 6 )
+INFO:root:downSearchTree_Node START (8, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 6 )
+INFO:root:downSearchTree_Node START (7, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (7, 6 )
+ERROR:root:downSearchTree_Node NONE with (None, 6 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 5 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 5 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 5 )
+INFO:root:downSearchTree_Node START (10, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 5 )
+INFO:root:downSearchTree_Node START (8, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 5 )
+INFO:root:downSearchTree_Node START (7, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (7, 5 )
+INFO:root:downSearchTree_Node START (6, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 5 )
+ERROR:root:downSearchTree_Node NONE with (None, 5 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 4 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 4 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 4 )
+INFO:root:downSearchTree_Node START (10, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 4 )
+INFO:root:downSearchTree_Node START (8, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 4 )
+INFO:root:downSearchTree_Node START (6, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 4 )
+INFO:root:downSearchTree_Node START (5, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (5, 4 )
+ERROR:root:downSearchTree_Node NONE with (None, 4 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 3 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 3 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 3 )
+INFO:root:downSearchTree_Node START (10, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 3 )
+INFO:root:downSearchTree_Node START (8, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 3 )
+INFO:root:downSearchTree_Node START (6, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 3 )
+INFO:root:downSearchTree_Node START (5, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (5, 3 )
+INFO:root:downSearchTree_Node START (4, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 3 )
+ERROR:root:downSearchTree_Node NONE with (None, 3 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (8, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (3, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (3, 2 )
+ERROR:root:downSearchTree_Node NONE with (None, 2 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (3, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (3, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+ERROR:root:downSearchTree_Node NONE with (None, 1 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:------------------------------------------------------------------------------------
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000129AE2EDB50>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 1 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000129AE2EDCA0>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 2 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000129AE2EDD90>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 3 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000129AE2EDCA0>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 4 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000129AE2EDD90>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 5 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000129AE2EDCA0>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 6 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000129AE2EDD90>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 7 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000129AE2EDCA0>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 8 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000129AE2EDD90>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 9 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000129AE2EDCA0>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 10 
+ERROR:root:twoDirectSearch_Node NONE with (None, 24 ) parent: None
+INFO:root:twoDirectSearch_Node START with (24, 23 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 23 )call downSearchTree_Node
+ERROR:root:downSearchTree_Node NONE with (None, 23 ) parent: None
+INFO:root:twoDirectSearch_Node START with (24, 22 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 22 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (23, 22-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (23, 22 )
+ERROR:root:downSearchTree_Node NONE with (None, 22 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 21 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 21 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (23, 21-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (23, 21 )
+INFO:root:downSearchTree_Node START (22, 21-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 21 )
+ERROR:root:downSearchTree_Node NONE with (None, 21 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 20 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 20 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 20-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 20 )
+INFO:root:downSearchTree_Node START (21, 20-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (21, 20 )
+ERROR:root:downSearchTree_Node NONE with (None, 20 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 19 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 19 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 19 )
+INFO:root:downSearchTree_Node START (21, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (21, 19 )
+INFO:root:downSearchTree_Node START (20, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 19 )
+ERROR:root:downSearchTree_Node NONE with (None, 19 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 18 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 18 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 18 )
+INFO:root:downSearchTree_Node START (20, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 18 )
+INFO:root:downSearchTree_Node START (19, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (19, 18 )
+ERROR:root:downSearchTree_Node NONE with (None, 18 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 17 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 17 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 17 )
+INFO:root:downSearchTree_Node START (19, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (19, 17 )
+INFO:root:downSearchTree_Node START (18, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 17 )
+ERROR:root:downSearchTree_Node NONE with (None, 17 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 16 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 16 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 16 )
+INFO:root:downSearchTree_Node START (18, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 16 )
+INFO:root:downSearchTree_Node START (17, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (17, 16 )
+ERROR:root:downSearchTree_Node NONE with (None, 16 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 15 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 15 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 15 )
+INFO:root:downSearchTree_Node START (18, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 15 )
+INFO:root:downSearchTree_Node START (17, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (17, 15 )
+INFO:root:downSearchTree_Node START (16, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 15 )
+ERROR:root:downSearchTree_Node NONE with (None, 15 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 14 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 14 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 14 )
+INFO:root:downSearchTree_Node START (18, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 14 )
+INFO:root:downSearchTree_Node START (16, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 14 )
+INFO:root:downSearchTree_Node START (15, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (15, 14 )
+ERROR:root:downSearchTree_Node NONE with (None, 14 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 13 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 13 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 13 )
+INFO:root:downSearchTree_Node START (16, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 13 )
+INFO:root:downSearchTree_Node START (15, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (15, 13 )
+INFO:root:downSearchTree_Node START (14, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 13 )
+ERROR:root:downSearchTree_Node NONE with (None, 13 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 12 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 12 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 12 )
+INFO:root:downSearchTree_Node START (16, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 12 )
+INFO:root:downSearchTree_Node START (14, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 12 )
+INFO:root:downSearchTree_Node START (13, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (13, 12 )
+ERROR:root:downSearchTree_Node NONE with (None, 12 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 11 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 11 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 11 )
+INFO:root:downSearchTree_Node START (16, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 11 )
+INFO:root:downSearchTree_Node START (14, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 11 )
+INFO:root:downSearchTree_Node START (13, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (13, 11 )
+INFO:root:downSearchTree_Node START (12, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 11 )
+ERROR:root:downSearchTree_Node NONE with (None, 11 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 10 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 10 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 10 )
+INFO:root:downSearchTree_Node START (16, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 10 )
+INFO:root:downSearchTree_Node START (14, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 10 )
+INFO:root:downSearchTree_Node START (12, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 10 )
+INFO:root:downSearchTree_Node START (11, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (11, 10 )
+ERROR:root:downSearchTree_Node NONE with (None, 10 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 9 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 9 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 9 )
+INFO:root:downSearchTree_Node START (14, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 9 )
+INFO:root:downSearchTree_Node START (12, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 9 )
+INFO:root:downSearchTree_Node START (11, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (11, 9 )
+INFO:root:downSearchTree_Node START (10, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 9 )
+ERROR:root:downSearchTree_Node NONE with (None, 9 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 8 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 8 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 8 )
+INFO:root:downSearchTree_Node START (14, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 8 )
+INFO:root:downSearchTree_Node START (12, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 8 )
+INFO:root:downSearchTree_Node START (10, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 8 )
+INFO:root:downSearchTree_Node START (9, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (9, 8 )
+ERROR:root:downSearchTree_Node NONE with (None, 8 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 7 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 7 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 7 )
+INFO:root:downSearchTree_Node START (12, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 7 )
+INFO:root:downSearchTree_Node START (10, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 7 )
+INFO:root:downSearchTree_Node START (9, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (9, 7 )
+INFO:root:downSearchTree_Node START (8, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 7 )
+ERROR:root:downSearchTree_Node NONE with (None, 7 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 6 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 6 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 6 )
+INFO:root:downSearchTree_Node START (12, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 6 )
+INFO:root:downSearchTree_Node START (10, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 6 )
+INFO:root:downSearchTree_Node START (8, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 6 )
+INFO:root:downSearchTree_Node START (7, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (7, 6 )
+ERROR:root:downSearchTree_Node NONE with (None, 6 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 5 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 5 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 5 )
+INFO:root:downSearchTree_Node START (10, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 5 )
+INFO:root:downSearchTree_Node START (8, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 5 )
+INFO:root:downSearchTree_Node START (7, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (7, 5 )
+INFO:root:downSearchTree_Node START (6, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 5 )
+ERROR:root:downSearchTree_Node NONE with (None, 5 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 4 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 4 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 4 )
+INFO:root:downSearchTree_Node START (10, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 4 )
+INFO:root:downSearchTree_Node START (8, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 4 )
+INFO:root:downSearchTree_Node START (6, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 4 )
+INFO:root:downSearchTree_Node START (5, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (5, 4 )
+ERROR:root:downSearchTree_Node NONE with (None, 4 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 3 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 3 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 3 )
+INFO:root:downSearchTree_Node START (10, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 3 )
+INFO:root:downSearchTree_Node START (8, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 3 )
+INFO:root:downSearchTree_Node START (6, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 3 )
+INFO:root:downSearchTree_Node START (5, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (5, 3 )
+INFO:root:downSearchTree_Node START (4, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 3 )
+ERROR:root:downSearchTree_Node NONE with (None, 3 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (8, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (3, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (3, 2 )
+ERROR:root:downSearchTree_Node NONE with (None, 2 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (3, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (3, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+ERROR:root:downSearchTree_Node NONE with (None, 1 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:------------------------------------------------------------------------------------
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000022A5BC0C520>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 1 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000022A5BC0CB20>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 2 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000022A5BC0CB80>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 3 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000022A5BC0CB20>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 4 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000022A5BC0CB80>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 5 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000022A5BC0CB20>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 6 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000022A5BC0CB80>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 7 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000022A5BC0CB20>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 8 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000022A5BC0CB80>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 9 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000022A5BC0CB20>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 10 
+ERROR:root:twoDirectSearch_Node NONE with (None, 24 ) parent: None
+INFO:root:twoDirectSearch_Node START with (24, 23 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 23 )call downSearchTree_Node
+ERROR:root:downSearchTree_Node NONE with (None, 23 ) parent: None
+INFO:root:twoDirectSearch_Node START with (24, 22 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 22 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (23, 22-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (23, 22 )
+ERROR:root:downSearchTree_Node NONE with (None, 22 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 21 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 21 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (23, 21-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (23, 21 )
+INFO:root:downSearchTree_Node START (22, 21-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 21 )
+ERROR:root:downSearchTree_Node NONE with (None, 21 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 20 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 20 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 20-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 20 )
+INFO:root:downSearchTree_Node START (21, 20-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (21, 20 )
+ERROR:root:downSearchTree_Node NONE with (None, 20 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 19 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 19 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 19 )
+INFO:root:downSearchTree_Node START (21, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (21, 19 )
+INFO:root:downSearchTree_Node START (20, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 19 )
+ERROR:root:downSearchTree_Node NONE with (None, 19 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 18 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 18 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 18 )
+INFO:root:downSearchTree_Node START (20, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 18 )
+INFO:root:downSearchTree_Node START (19, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (19, 18 )
+ERROR:root:downSearchTree_Node NONE with (None, 18 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 17 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 17 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 17 )
+INFO:root:downSearchTree_Node START (19, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (19, 17 )
+INFO:root:downSearchTree_Node START (18, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 17 )
+ERROR:root:downSearchTree_Node NONE with (None, 17 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 16 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 16 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 16 )
+INFO:root:downSearchTree_Node START (18, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 16 )
+INFO:root:downSearchTree_Node START (17, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (17, 16 )
+ERROR:root:downSearchTree_Node NONE with (None, 16 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 15 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 15 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 15 )
+INFO:root:downSearchTree_Node START (18, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 15 )
+INFO:root:downSearchTree_Node START (17, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (17, 15 )
+INFO:root:downSearchTree_Node START (16, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 15 )
+ERROR:root:downSearchTree_Node NONE with (None, 15 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 14 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 14 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 14 )
+INFO:root:downSearchTree_Node START (18, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 14 )
+INFO:root:downSearchTree_Node START (16, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 14 )
+INFO:root:downSearchTree_Node START (15, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (15, 14 )
+ERROR:root:downSearchTree_Node NONE with (None, 14 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 13 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 13 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 13 )
+INFO:root:downSearchTree_Node START (16, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 13 )
+INFO:root:downSearchTree_Node START (15, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (15, 13 )
+INFO:root:downSearchTree_Node START (14, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 13 )
+ERROR:root:downSearchTree_Node NONE with (None, 13 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 12 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 12 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 12 )
+INFO:root:downSearchTree_Node START (16, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 12 )
+INFO:root:downSearchTree_Node START (14, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 12 )
+INFO:root:downSearchTree_Node START (13, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (13, 12 )
+ERROR:root:downSearchTree_Node NONE with (None, 12 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 11 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 11 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 11 )
+INFO:root:downSearchTree_Node START (16, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 11 )
+INFO:root:downSearchTree_Node START (14, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 11 )
+INFO:root:downSearchTree_Node START (13, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (13, 11 )
+INFO:root:downSearchTree_Node START (12, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 11 )
+ERROR:root:downSearchTree_Node NONE with (None, 11 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 10 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 10 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 10 )
+INFO:root:downSearchTree_Node START (16, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 10 )
+INFO:root:downSearchTree_Node START (14, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 10 )
+INFO:root:downSearchTree_Node START (12, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 10 )
+INFO:root:downSearchTree_Node START (11, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (11, 10 )
+ERROR:root:downSearchTree_Node NONE with (None, 10 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 9 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 9 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 9 )
+INFO:root:downSearchTree_Node START (14, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 9 )
+INFO:root:downSearchTree_Node START (12, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 9 )
+INFO:root:downSearchTree_Node START (11, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (11, 9 )
+INFO:root:downSearchTree_Node START (10, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 9 )
+ERROR:root:downSearchTree_Node NONE with (None, 9 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 8 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 8 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 8 )
+INFO:root:downSearchTree_Node START (14, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 8 )
+INFO:root:downSearchTree_Node START (12, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 8 )
+INFO:root:downSearchTree_Node START (10, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 8 )
+INFO:root:downSearchTree_Node START (9, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (9, 8 )
+ERROR:root:downSearchTree_Node NONE with (None, 8 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 7 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 7 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 7 )
+INFO:root:downSearchTree_Node START (12, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 7 )
+INFO:root:downSearchTree_Node START (10, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 7 )
+INFO:root:downSearchTree_Node START (9, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (9, 7 )
+INFO:root:downSearchTree_Node START (8, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 7 )
+ERROR:root:downSearchTree_Node NONE with (None, 7 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 6 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 6 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 6 )
+INFO:root:downSearchTree_Node START (12, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 6 )
+INFO:root:downSearchTree_Node START (10, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 6 )
+INFO:root:downSearchTree_Node START (8, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 6 )
+INFO:root:downSearchTree_Node START (7, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (7, 6 )
+ERROR:root:downSearchTree_Node NONE with (None, 6 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 5 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 5 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 5 )
+INFO:root:downSearchTree_Node START (10, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 5 )
+INFO:root:downSearchTree_Node START (8, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 5 )
+INFO:root:downSearchTree_Node START (7, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (7, 5 )
+INFO:root:downSearchTree_Node START (6, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 5 )
+ERROR:root:downSearchTree_Node NONE with (None, 5 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 4 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 4 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 4 )
+INFO:root:downSearchTree_Node START (10, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 4 )
+INFO:root:downSearchTree_Node START (8, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 4 )
+INFO:root:downSearchTree_Node START (6, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 4 )
+INFO:root:downSearchTree_Node START (5, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (5, 4 )
+ERROR:root:downSearchTree_Node NONE with (None, 4 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 3 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 3 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 3 )
+INFO:root:downSearchTree_Node START (10, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 3 )
+INFO:root:downSearchTree_Node START (8, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 3 )
+INFO:root:downSearchTree_Node START (6, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 3 )
+INFO:root:downSearchTree_Node START (5, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (5, 3 )
+INFO:root:downSearchTree_Node START (4, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 3 )
+ERROR:root:downSearchTree_Node NONE with (None, 3 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (8, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (3, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (3, 2 )
+ERROR:root:downSearchTree_Node NONE with (None, 2 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (3, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (3, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+ERROR:root:downSearchTree_Node NONE with (None, 1 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:------------------------------------------------------------------------------------
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EA6669E520>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 1 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EA6669EB20>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 2 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EA6669EB80>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 3 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EA6669EB20>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 4 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EA6669EB80>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 5 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EA6669EB20>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 6 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EA6669EB80>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 7 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EA6669EB20>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 8 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EA6669EB80>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 9 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EA6669EB20>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 10 
+INFO:root:------------------------------------------------------------------------------------
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000018361491280>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 1 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000183614AA310>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 2 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000183614AA370>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 3 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000183614AA310>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 4 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000183614AA370>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 5 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000183614AA310>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 6 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000183614AA370>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 7 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000183614AA310>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 8 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000183614AA370>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 9 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x00000183614AA310>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 10 
+INFO:root:------------------------------------------------------------------------------------
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000015B293D1280>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 1 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000015B293EA310>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 2 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000015B293EA370>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 3 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000015B293EA310>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 4 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000015B293EA370>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 5 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000015B293EA310>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 6 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000015B293EA370>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 7 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000015B293EA310>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 8 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000015B293EA370>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 9 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x0000015B293EA310>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 10 
+ERROR:root:twoDirectSearch_Node NONE with (None, 24 ) parent: None
+INFO:root:twoDirectSearch_Node START with (24, 23 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 23 )call downSearchTree_Node
+ERROR:root:downSearchTree_Node NONE with (None, 23 ) parent: None
+INFO:root:twoDirectSearch_Node START with (24, 22 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 22 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (23, 22-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (23, 22 )
+ERROR:root:downSearchTree_Node NONE with (None, 22 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 21 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 21 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (23, 21-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (23, 21 )
+INFO:root:downSearchTree_Node START (22, 21-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 21 )
+ERROR:root:downSearchTree_Node NONE with (None, 21 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 20 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 20 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 20-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 20 )
+INFO:root:downSearchTree_Node START (21, 20-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (21, 20 )
+ERROR:root:downSearchTree_Node NONE with (None, 20 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 19 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 19 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 19 )
+INFO:root:downSearchTree_Node START (21, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (21, 19 )
+INFO:root:downSearchTree_Node START (20, 19-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 19 )
+ERROR:root:downSearchTree_Node NONE with (None, 19 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (24, 18 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (24, 18 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (22, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (22, 18 )
+INFO:root:downSearchTree_Node START (20, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 18 )
+INFO:root:downSearchTree_Node START (19, 18-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (19, 18 )
+ERROR:root:downSearchTree_Node NONE with (None, 18 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 17 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 17 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 17 )
+INFO:root:downSearchTree_Node START (19, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (19, 17 )
+INFO:root:downSearchTree_Node START (18, 17-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 17 )
+ERROR:root:downSearchTree_Node NONE with (None, 17 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 16 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 16 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 16 )
+INFO:root:downSearchTree_Node START (18, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 16 )
+INFO:root:downSearchTree_Node START (17, 16-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (17, 16 )
+ERROR:root:downSearchTree_Node NONE with (None, 16 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 15 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 15 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 15 )
+INFO:root:downSearchTree_Node START (18, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 15 )
+INFO:root:downSearchTree_Node START (17, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (17, 15 )
+INFO:root:downSearchTree_Node START (16, 15-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 15 )
+ERROR:root:downSearchTree_Node NONE with (None, 15 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 14 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 14 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (20, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (20, 14 )
+INFO:root:downSearchTree_Node START (18, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 14 )
+INFO:root:downSearchTree_Node START (16, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 14 )
+INFO:root:downSearchTree_Node START (15, 14-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (15, 14 )
+ERROR:root:downSearchTree_Node NONE with (None, 14 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 13 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 13 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 13 )
+INFO:root:downSearchTree_Node START (16, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 13 )
+INFO:root:downSearchTree_Node START (15, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (15, 13 )
+INFO:root:downSearchTree_Node START (14, 13-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 13 )
+ERROR:root:downSearchTree_Node NONE with (None, 13 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 12 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 12 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 12 )
+INFO:root:downSearchTree_Node START (16, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 12 )
+INFO:root:downSearchTree_Node START (14, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 12 )
+INFO:root:downSearchTree_Node START (13, 12-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (13, 12 )
+ERROR:root:downSearchTree_Node NONE with (None, 12 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 11 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 11 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 11 )
+INFO:root:downSearchTree_Node START (16, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 11 )
+INFO:root:downSearchTree_Node START (14, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 11 )
+INFO:root:downSearchTree_Node START (13, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (13, 11 )
+INFO:root:downSearchTree_Node START (12, 11-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 11 )
+ERROR:root:downSearchTree_Node NONE with (None, 11 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 10 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 10 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 10 )
+INFO:root:downSearchTree_Node START (16, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (16, 10 )
+INFO:root:downSearchTree_Node START (14, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 10 )
+INFO:root:downSearchTree_Node START (12, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 10 )
+INFO:root:downSearchTree_Node START (11, 10-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (11, 10 )
+ERROR:root:downSearchTree_Node NONE with (None, 10 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 9 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 9 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 9 )
+INFO:root:downSearchTree_Node START (14, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 9 )
+INFO:root:downSearchTree_Node START (12, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 9 )
+INFO:root:downSearchTree_Node START (11, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (11, 9 )
+INFO:root:downSearchTree_Node START (10, 9-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 9 )
+ERROR:root:downSearchTree_Node NONE with (None, 9 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (22, 8 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (22, 8 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (18, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (18, 8 )
+INFO:root:downSearchTree_Node START (14, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 8 )
+INFO:root:downSearchTree_Node START (12, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 8 )
+INFO:root:downSearchTree_Node START (10, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 8 )
+INFO:root:downSearchTree_Node START (9, 8-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (9, 8 )
+ERROR:root:downSearchTree_Node NONE with (None, 8 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 7 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 7 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 7 )
+INFO:root:downSearchTree_Node START (12, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 7 )
+INFO:root:downSearchTree_Node START (10, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 7 )
+INFO:root:downSearchTree_Node START (9, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (9, 7 )
+INFO:root:downSearchTree_Node START (8, 7-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 7 )
+ERROR:root:downSearchTree_Node NONE with (None, 7 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 6 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 6 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 6 )
+INFO:root:downSearchTree_Node START (12, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (12, 6 )
+INFO:root:downSearchTree_Node START (10, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 6 )
+INFO:root:downSearchTree_Node START (8, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 6 )
+INFO:root:downSearchTree_Node START (7, 6-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (7, 6 )
+ERROR:root:downSearchTree_Node NONE with (None, 6 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 5 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 5 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 5 )
+INFO:root:downSearchTree_Node START (10, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 5 )
+INFO:root:downSearchTree_Node START (8, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 5 )
+INFO:root:downSearchTree_Node START (7, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (7, 5 )
+INFO:root:downSearchTree_Node START (6, 5-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 5 )
+ERROR:root:downSearchTree_Node NONE with (None, 5 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 4 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 4 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 4 )
+INFO:root:downSearchTree_Node START (10, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 4 )
+INFO:root:downSearchTree_Node START (8, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 4 )
+INFO:root:downSearchTree_Node START (6, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 4 )
+INFO:root:downSearchTree_Node START (5, 4-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (5, 4 )
+ERROR:root:downSearchTree_Node NONE with (None, 4 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 3 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 3 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 3 )
+INFO:root:downSearchTree_Node START (10, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 3 )
+INFO:root:downSearchTree_Node START (8, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 3 )
+INFO:root:downSearchTree_Node START (6, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 3 )
+INFO:root:downSearchTree_Node START (5, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (5, 3 )
+INFO:root:downSearchTree_Node START (4, 3-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 3 )
+ERROR:root:downSearchTree_Node NONE with (None, 3 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (8, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (8, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (3, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (3, 2 )
+ERROR:root:downSearchTree_Node NONE with (None, 2 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (3, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (3, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+ERROR:root:downSearchTree_Node NONE with (None, 1 ) parent: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:downSearchTree_Node GO LEFT now return: None
+INFO:root:------------------------------------------------------------------------------------
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EAF87E13A0>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 1 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EAF87E1910>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 2 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EAF87E1970>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 3 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EAF87E1910>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 4 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EAF87E1970>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 5 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EAF87E1910>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 6 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EAF87E1970>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 7 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EAF87E1910>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 8 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EAF87E1970>
+INFO:root:-- START lazyFinger_search: (18, 2) 
+INFO:root:-- lazyFinger_search (18, 2)
+INFO:root:twoDirectSearch_Node START with (18, 2 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 2 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 2 )
+INFO:root:downSearchTree_Node START (10, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 2 )
+INFO:root:downSearchTree_Node START (6, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 2 )
+INFO:root:downSearchTree_Node START (4, 2-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 2 )
+INFO:root:downSearchTree_Node START (2, 2-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (2, 2 )
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:downSearchTree_Node GO LEFT now return: 2
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 2
+INFO:root:-- AFT lazyFinger_search resultList = [2]
+INFO:root:-- lazyFinger_search END resultList = [2]
+INFO:root:-- LAZY FINGER now: 2 
+INFO:root:-- LAZY Finger usedNodes 9 
+ERROR:root:-- lazyFinger_search uses BAD Finger -> ROOT recovery = <red_black_tree.RedBlackTree.Node object at 0x000001EAF87E1910>
+INFO:root:-- START lazyFinger_search: (18, 1) 
+INFO:root:-- lazyFinger_search (18, 1)
+INFO:root:twoDirectSearch_Node START with (18, 1 ) firstRes: None, leafRes: None 
+INFO:root:twoDirectSearch_Node GO LEFT with (18, 1 )call downSearchTree_Node
+INFO:root:downSearchTree_Node START (14, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (14, 1 )
+INFO:root:downSearchTree_Node START (10, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (10, 1 )
+INFO:root:downSearchTree_Node START (6, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (6, 1 )
+INFO:root:downSearchTree_Node START (4, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (4, 1 )
+INFO:root:downSearchTree_Node START (2, 1-key) firstRes: None
+INFO:root:downSearchTree_Node GO LEFT (2, 1 )
+INFO:root:downSearchTree_Node START (1, 1-key) firstRes: None
+INFO:root: downSearchTree_Node FOUND1 (1, 1 )
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:downSearchTree_Node GO LEFT now return: 1
+INFO:root:-- lazyFinger_search used RedBlackTree.twoDirectSearch_Node = 1
+INFO:root:-- AFT lazyFinger_search resultList = [1]
+INFO:root:-- lazyFinger_search END resultList = [1]
+INFO:root:-- LAZY FINGER now: 1 
+INFO:root:-- LAZY Finger usedNodes 10 
