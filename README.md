@@ -3,7 +3,7 @@ Das ist der praktische Teil von meiner Bachelorarbeit.
 ---
 
 Um meinen Code auszuführen, empfehle ich die Vorgehensweise:
-1.	Bitte den Ordner ba_schap/main öffnen.
+1.	Bitte den Ordner /main öffnen.
 2.	Diese 2 files auszuführen: GenerateInputLists.py und GenerateSearchLists.py
 3.	Nun haben die Fingersuchen zwei .csv files für die Initialisierung
 4.	Dann im selben Ordner PlotsCounterWindows.py auszuführen, dieses Skript verwendet die verschiedenen Arten der Fingersuche.
