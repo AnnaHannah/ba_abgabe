@@ -86,7 +86,7 @@ Analog zu findMaximum
 
 
 ## --- Beispielcode für main ---
-
+```
 if __name__ == "__main__":
     sys.setrecursionlimit(2000)
     # print("1. Recursion allowed in this program:", sys.getrecursionlimit())
@@ -110,4 +110,4 @@ if __name__ == "__main__":
     bst.printTree()
     # bst.maximumInTree()
     # bst.minimumInTree()
-
+```
