@@ -16,8 +16,9 @@ Ananlog wird hier das Minimum gesucht und auf den MiniFinger gesetzt.
 Diese Suche hat den Vorteil, dass sie an einer beliegigen Stelle in der Datenstrucktur anfangen kann zu suchen. 
 Man muss hier bedenken, diese Funktion interessiert die Laufzeit nicht, sie geht falls der Node nicht gefunden wird, zur Wurzel zurück und macht dort die Wurzelsuche. Daher wird in dieser Fingersuche sich vorher überlegt ob der Wert mit dem Maximalen oder Mininmalen Finger gestartet werden soll. Das wiederum schafft eine bessere Laufzeit.
 
-#### Beispiel Main:
 
+## --- Beispielcode für main ---
+```
 if __name__ == "__main__":
     sys.setrecursionlimit(2000)
     bst = RedBlackTree()
@@ -28,3 +29,4 @@ if __name__ == "__main__":
     mmf.miniFinger = mmf.setMiniFingerFrom(bst)    
     mmf.fingerSearch(bst, 1)
     bst.printTree()
+```
