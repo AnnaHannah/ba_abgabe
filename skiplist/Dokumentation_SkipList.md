@@ -44,3 +44,20 @@ Stellt eine Consolendarstellung der Ebenen und Elemente da.
 Gibt die länge der Untersten Liste-Ebene zurück.
 
 
+## --- Beispielcode für main ---
+```
+if __name__ == "__main__":
+    sys.setrecursionlimit(200)
+    skl = SkipList()
+    #inputList = list(range(1,1000))
+    inputList1=[1,2,3,4,5,6,7,8 ]
+    skl.insertMultipleElem(inputList1)
+    print("\n - > number of nodes in SkipList:", skl.counterNodes())
+    skl.printSkipList()
+    # print ("\n \n skl.head ist:", skl.head.next[1].data)
+    # print ("\n Here skl.maximumInSkiplist() = ", skl.maximumInSkiplist())
+    print("\n skl.minimumInSkiplist() is now:", skl.minimumInSkiplist().data)
+    print("\n skl.maximumInSkiplist() is now:", skl.maximumInSkiplist().data)
+    print("\n liear Search war looking for:", skl.head.next[2].data)
+    #skl.listSearchLinear(skl.head.next[2].data)
+```
