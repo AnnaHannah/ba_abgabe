@@ -1,3 +1,6 @@
+# (29.11.2020) damals kopiert von https://qvault.io/python/red-black-tree-python/
+# modified by me
+
 import sys
 from _overlapped import NULL
 from idlelib.idle_test.test_editor import insert
