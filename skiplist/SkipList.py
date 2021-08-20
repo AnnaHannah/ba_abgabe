@@ -1,7 +1,4 @@
-# Autor: Sachin Nair
-# https://gist.github.com/sachinnair90/3bee2ef7dd3ff0dc5aec44ec40e2d127 
-# seen 29.11.2020
-# modified by me
+# (30.11.2020, 16:00 Uhr) kopiert aus: https://github.com/kunigami/blog-examples/tree/master/skip-list 
 
 
 import sys
