@@ -31,10 +31,8 @@ Für mich:
 #### Probleme, die behoben werden können:
 
 - Skiplist two direkt search implementieren
-- Finger Management: ebenen Finger auf skiplists implementieren
-- Finger management: rotschwarz eigenschaften ausnutzen in finger search
-- red Finger search
-- Splaytree kürzen
+- Red Fingersearch
+- Splaytree kürzen (ShortSplayTree.py)
 
 #### Refractoring:
 - wie UML Diagram -> Abstrakte Klassen: Fingermanagement und Finger 
