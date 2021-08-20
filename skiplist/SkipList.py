@@ -1,4 +1,5 @@
-# (30.11.2020, 16:00 Uhr) kopiert aus: https://github.com/kunigami/blog-examples/tree/master/skip-list 
+# (30.11.2020, 16:00 Uhr) inspiriert aus: https://github.com/kunigami/blog-examples/tree/master/skip-list 
+# 3 Mal neu selber geschrieben
 
 
 import sys
