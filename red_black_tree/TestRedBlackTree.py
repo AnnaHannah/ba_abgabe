@@ -1,3 +1,6 @@
+# (29.11.2020) inspiriert von https://qvault.io/python/red-black-tree-python/
+# modified by me
+
 from RedBlackTree import RedBlackTree
 import unittest
 from random import seed, randint
